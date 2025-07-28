@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 passwords.txt
 secure/
+=======
+#Ignore all .txt file 
+*.txt
+>>>>>>> 4ca1f92f93ab71a01b077e92fb69d1478dd42380
